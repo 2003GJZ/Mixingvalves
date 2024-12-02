@@ -1,0 +1,14 @@
+# 忽略 IntelliJ IDEA 文件
+.idea/
+*.iml
+
+# 忽略日志文件
+*.log
+
+# 忽略编译输出
+/out/
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+
